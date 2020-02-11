@@ -1,0 +1,23 @@
+html,body{
+    background-color:rgb(173, 159, 172);
+}
+h1{
+    font-family: cursive;
+    color: rgb(227, 236, 97);
+    background: black;
+    text-align: center;
+    
+}
+p{
+    font-family: fantasy;
+    color:red;
+    background: pink;
+    text-align: justify;
+    font-size: large;
+}
+
+div{
+    height: 300px;
+    width: 200px;
+    background-color: plum;
+}
